@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 12, 2015, 10:14:50 AM
+    Author     : Shakil
+*/
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100);
+
+body{
+    background-color: #06213F;
+    background: #ffffff url("../img/background3.jpg") repeat left top;
+}
+.right{
+    float: right;
+}
+.header_brand{
+    font-family: 'Lobster', cursive;
+    color: #06213F;
+}
+.header_brand_sologan{
+    font-family: 'Lobster', cursive;
+    color: #06213F;
+}
+.header_font_family{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.paragraph_content{
+    font-family: 'Roboto Slab', serif;
+}
+.padding_content{
+    padding:0px 20px 0px 20px;
+}
+.padding_content_top_bot{
+    padding:20px 0px 20px 0px;
+}
+.slider_shadow{
+    background: transparent url("img/footer_shadow.png") no-repeat scroll center top;
+    height: 56px;
+}
+.margin-off{
+    margin: 0px;
+    padding: 10px 10px 10px 0px;
+}
+.border_color{
+    border-color: #F7F6F4;
+}
+.content-background{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #cccccc
+}
+.margin-header{
+    margin: 20px 0px 20px 0px;
+}
